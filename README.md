@@ -7,6 +7,7 @@ Sou **QA** apaixonado por automação de testes e estou sempre em busca de novos
 Atualmente, estou focado nas seguintes tecnologias e ferramentas:
 
 - **Selenium** 🧪
+- **Cypress** ⚙️
 - **JUnit** 📝
 - **Java** ☕
 - **JavaScript** 🌐
@@ -40,6 +41,7 @@ I'm a **QA** enthusiast passionate about test automation, constantly seeking new
 I'm currently focused on the following technologies and tools:
 
 - **Selenium** 🧪
+- **Cypress** ⚙️
 - **JUnit** 📝
 - **Java** ☕
 - **JavaScript** 🌐
