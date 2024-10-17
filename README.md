@@ -20,11 +20,13 @@ Atualmente, estou focado nas seguintes tecnologias e ferramentas:
 
 Aqui estão alguns dos projetos que estou desenvolvendo:
 
-- [Projeto Selenium com Java](https://github.com/felipevitalinobarra/seleniumWebDriverJava) 🧩
+- [Projeto Mark85 com Robert Framework](https://github.com/felipevitalinobarra/mark85-robot-express)
+- [Projeto Samurai Barber Shop com Cypress](https://github.com/felipevitalinobarra/samuraibs-universo-cypress)
 
 ## 📫 Contato
 
 - **LinkedIn**: [Felipe Barra](https://www.linkedin.com/in/felipe-v-barra)
+- **E-mail**:   felipevitalino96@gmail.com
 
 > "O sucesso é a soma de pequenos esforços repetidos dia após dia." - Robert Collier
 
@@ -54,11 +56,13 @@ I'm currently focused on the following technologies and tools:
 
 Here are some of the projects I'm working on:
 
-- [Selenium Project with Java](https://github.com/felipevitalinobarra/seleniumWebDriverJava) 🧩
+- [Mark85 Project with Robot Framework](https://github.com/felipevitalinobarra/mark85-robot-express)
+- [Samurai Barber Shop Project with Cypress](https://github.com/felipevitalinobarra/samuraibs-universo-cypress)
 
 ## 📫 Contact
 
 - **LinkedIn**: [Felipe Barra](https://www.linkedin.com/in/felipe-v-barra)
+- **E-mail**:   felipevitalino96@gmail.com
 
 > "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 
