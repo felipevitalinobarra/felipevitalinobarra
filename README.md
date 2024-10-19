@@ -20,7 +20,7 @@ Atualmente, estou focado nas seguintes tecnologias e ferramentas:
 
 Aqui estão alguns dos projetos que estou desenvolvendo:
 
-- [Projeto Mark85 com Robert Framework](https://github.com/felipevitalinobarra/mark85-robot-express)
+- [Projeto Mark85 com Robot Framework](https://github.com/felipevitalinobarra/mark85-robot-express)
 - [Projeto Samurai Barber Shop com Cypress](https://github.com/felipevitalinobarra/samuraibs-universo-cypress)
 
 ## 📫 Contato
