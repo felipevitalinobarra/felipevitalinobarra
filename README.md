@@ -1,69 +1,42 @@
-# Olá, eu sou Felipe Barra! 👋
+# 💻 Felipe Barra | Quality Assurance 
 
-Sou **QA** apaixonado por automação de testes e estou sempre em busca de novos conhecimentos e desafios. Este perfil é dedicado a compartilhar os projetos práticos que estou desenvolvendo enquanto exploro e aprendo mais sobre automação de testes.
-
-## 🚀 Tecnologias e Ferramentas
-
-Atualmente, estou focado nas seguintes tecnologias e ferramentas:
-
-- **Selenium** 🧪
-- **Cypress** ⚙️
-- **JUnit** 📝
-- **Java** ☕
-- **JavaScript** 🌐
-- **Robot Framework** 🤖
-- **Playwright** 🎭
-- **CodeceptJS** 🎯
-- **Cucumber** 🥒
-
-## 🛠 Projetos Recentes
-
-Aqui estão alguns dos projetos que estou desenvolvendo:
-
-- [Projeto Mark85 com Robot Framework](https://github.com/felipevitalinobarra/mark85-robot-express)
-- [Projeto Samurai Barber Shop com Cypress](https://github.com/felipevitalinobarra/samuraibs-universo-cypress)
-
-## 📫 Contato
-
-- **LinkedIn**: [Felipe Barra](https://www.linkedin.com/in/felipe-v-barra)
-- **E-mail**:   felipevitalino96@gmail.com
-
-> "O sucesso é a soma de pequenos esforços repetidos dia após dia." - Robert Collier
-
-🔭 Estou sempre aberto a novas colaborações e oportunidades! Vamos conversar!
+Olá! 👋 Meu nome é **Felipe**, sou um **QA** apaixonado por tecnologia e automação de testes. Este perfil é o espaço onde compartilho **projetos pessoais**, **desafios de cursos** e meus aprendizados no mundo da **qualidade de software**. 
 
 ---
 
-# Hi, I'm Felipe Barra! 👋
+### 🥷🏽 Skills
 
-I'm a **QA** enthusiast passionate about test automation, constantly seeking new knowledge and challenges. This profile is dedicated to sharing the practical projects I’m working on while exploring and learning more about test automation.
+✔ **Linguagens:**  
+Java, JavaScript, Python, HTML5, CSS3.  
 
-## 🚀 Technologies and Tools
+✔ **Frameworks:**  
+Robot Framework, Cypress, Selenium WebDriver, JUnit, Cucumber, Appium.  
 
-I'm currently focused on the following technologies and tools:
+✔ **Ferramentas:**  
+Postman, Insomnia, k6, Docker.
 
-- **Selenium** 🧪
-- **Cypress** ⚙️
-- **JUnit** 📝
-- **Java** ☕
-- **JavaScript** 🌐
-- **Robot Framework** 🤖
-- **Playwright** 🎭
-- **CodeceptJS** 🎯
-- **Cucumber** 🥒
+---
 
-## 🛠 Recent Projects
+### 🛠 Projetos Recentes:
+Aqui estão alguns dos meus projetos mais recentes e desafiadores:
 
-Here are some of the projects I'm working on:
+- [**Mark85 com Robot Framework**](https://github.com/felipevitalinobarra/mark85-robot-express)  
+  Automação de testes **E2E**, **Web** e **API** para uma aplicação de cadastro de tarefas.
 
-- [Mark85 Project with Robot Framework](https://github.com/felipevitalinobarra/mark85-robot-express)
-- [Samurai Barber Shop Project with Cypress](https://github.com/felipevitalinobarra/samuraibs-universo-cypress)
+- [**Samurai Barber Shop com Cypress**](https://github.com/felipevitalinobarra/samuraibs-universo-cypress)  
+  Automação de testes **E2E** e **Web** para uma aplicação de agendamento de barbearia.
 
-## 📫 Contact
+- [**Smartbit com Robot Framework e Appium**](https://github.com/felipevitalinobarra/smartbit-robot)  
+  Automação de testes **Web**, **Mobile (Android)** e **API** para uma sistema de gerenciamento de cadastros de academia.
 
-- **LinkedIn**: [Felipe Barra](https://www.linkedin.com/in/felipe-v-barra)
-- **E-mail**:   felipevitalino96@gmail.com
+- [**Starbugs com Cucumber, Ruby e Gherkin**](https://github.com/felipevitalinobarra/starbugs-robot)  
+  Testes BDD para um sistema de pedidos de café usando **Cucumber**, **Ruby** e **Gherkin**.  
 
-> "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
+- [**Exercícios e Desafios em Python**](https://github.com/felipevitalinobarra/curso-python)  
+  Repositório com desafios de lógica e scripts em **Python**.  
 
-🔭 I'm always open to new collaborations and opportunities! Let’s connect!
+- [**Introdução a testes de performance com k6**](https://github.com/felipevitalinobarra/curso-k6)  
+  Testes de carga para APIs RESTful usando **k6**.  
+
+- [**Testes contínuos em Robot Framework com GitHub Actions**](https://github.com/felipevitalinobarra/robot-actions)  
+  Pipeline **CI/CD** configurado para executar testes automatizados.  
