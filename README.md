@@ -20,23 +20,23 @@ Postman, Insomnia, k6, Docker.
 ### 🛠 Projetos Recentes:
 Aqui estão alguns dos meus projetos mais recentes e desafiadores:
 
-- [**Mark85 com Robot Framework**](https://github.com/felipevitalinobarra/mark85-robot-express)  
-  Automação de testes **E2E**, **Web** e **API** para uma aplicação de cadastro de tarefas.
-
-- [**Samurai Barber Shop com Cypress**](https://github.com/felipevitalinobarra/samuraibs-universo-cypress)  
-  Automação de testes **E2E** e **Web** para uma aplicação de agendamento de barbearia.
-
-- [**Smartbit com Robot Framework e Appium**](https://github.com/felipevitalinobarra/smartbit-robot)  
+📂 [**Smartbit com Robot Framework e Appium**](https://github.com/felipevitalinobarra/smartbit-robot)  
   Automação de testes **Web**, **Mobile (Android)** e **API** para uma sistema de gerenciamento de cadastros de academia.
 
-- [**Starbugs com Cucumber, Ruby e Gherkin**](https://github.com/felipevitalinobarra/starbugs-robot)  
-  Testes BDD para um sistema de pedidos de café usando **Cucumber**, **Ruby** e **Gherkin**.  
+📂 [**Samurai Barber Shop com Cypress**](https://github.com/felipevitalinobarra/samuraibs-universo-cypress)  
+  Automação de testes **E2E** e **Web** para uma aplicação de agendamento de barbearia.
+  
+📂 [**Mark85 com Robot Framework**](https://github.com/felipevitalinobarra/mark85-robot-express)  
+  Automação de testes **E2E**, **Web** e **API** para uma aplicação de cadastro de tarefas.
 
-- [**Exercícios e Desafios em Python**](https://github.com/felipevitalinobarra/curso-python)  
-  Repositório com desafios de lógica e scripts em **Python**.  
-
-- [**Introdução a testes de performance com k6**](https://github.com/felipevitalinobarra/curso-k6)  
+📂 [**Introdução a testes de performance com k6**](https://github.com/felipevitalinobarra/curso-k6)  
   Testes de carga para APIs RESTful usando **k6**.  
 
-- [**Testes contínuos em Robot Framework com GitHub Actions**](https://github.com/felipevitalinobarra/robot-actions)  
-  Pipeline **CI/CD** configurado para executar testes automatizados.  
+📂 [**Testes contínuos em Robot Framework com GitHub Actions**](https://github.com/felipevitalinobarra/robot-actions)  
+  Pipeline **CI/CD** configurado para executar testes automatizados.
+
+📂 [**Starbugs com Cucumber, Ruby e Gherkin**](https://github.com/felipevitalinobarra/starbugs-robot)  
+  Testes BDD para um sistema de pedidos de café usando **Cucumber**, **Ruby** e **Gherkin**.  
+
+📂 [**Exercícios e Desafios em Python**](https://github.com/felipevitalinobarra/curso-python)  
+  Repositório com desafios de lógica e scripts em **Python**.  
