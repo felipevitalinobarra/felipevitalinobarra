@@ -35,7 +35,7 @@ Aqui estão alguns dos meus projetos mais recentes e desafiadores:
 📂 [**Testes contínuos em Robot Framework com GitHub Actions**](https://github.com/felipevitalinobarra/robot-actions)  
   Pipeline **CI/CD** configurado para executar testes automatizados.
 
-📂 [**Starbugs com Cucumber, Ruby e Gherkin**](https://github.com/felipevitalinobarra/starbugs-robot)  
+📂 [**Starbugs com Cucumber, Ruby e Gherkin**](https://github.com/felipevitalinobarra/starbugs-cucumber)  
   Testes BDD para um sistema de pedidos de café usando **Cucumber**, **Ruby** e **Gherkin**.  
 
 📂 [**Exercícios e Desafios em Python**](https://github.com/felipevitalinobarra/curso-python)  
